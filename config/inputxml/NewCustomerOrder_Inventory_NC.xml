@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventory xmlns="http://services.sjrb.ad/inventorymanagement-equipment">
+  <equipment type="Xb6Converged">
+   <id>243159272</id>
+   <serialNumber>xb6converged00456</serialNumber>
+   <provisioningRegistrationKey>xb6converged00456</provisioningRegistrationKey>
+   <manufacturer>ARRIS</manufacturer>
+   <modelType>TG3482A/SH</modelType>
+   <isProvisionable>true</isProvisionable>
+   <description>TG3482A/SH</description>
+   <memo>Memo</memo>
+   <proprietor>
+     <type>Customer</type>
+     <identifier type="AddressId">198436</identifier>
+     <accountNumber>31934863107</accountNumber>
+     <description>John Doe</description>
+   </proprietor>
+   <state>NOT_APPLICABLE</state>
+   <isActive>false</isActive>
+   <isCustomerAllowed>true</isCustomerAllowed>
+   <unitAddress>2696DFAE03930CE8</unitAddress>
+   <docsisMacAddress>2FAE03930CE8</docsisMacAddress>
+   <specifications>
+     <specification>converged</specification>
+   </specifications>
+   <components>
+     <component>converged</component>
+   </components>
+   <productLines>
+     <productLine>Internet</productLine>
+     <productLine>Phone</productLine>
+     <productLine>Television</productLine>
+   </productLines>
+   <lastModifiedDate>2018-07-26 04:53:49.805 EDT</lastModifiedDate>
+   <link href="/cpe/equipments/243159272" ref="self" rel="self"/>
+   <link href="/cpe/equipments/243159272/state" ref="updateState" rel="updateState"/>
+   <isRental>true</isRental>
+  </equipment>
+</inventory>

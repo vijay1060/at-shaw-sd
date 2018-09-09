@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<brm:CustomerOrder xmlns:brm="http://services.shaw.ad/billing" accountId="131934863107"
+          accountNumber="31934863107"
+          effectiveDate="2018-07-26T02:53:57-0600"
+          orderId="9151549604713465897"
+          quoteId="9151549600613464116">
+  <brm:QuoteNode productInstanceId="9151549346613464074">
+   <brm:LineOfBusiness type="Telephony"/>
+   <brm:offeringId>9138037910013476639</brm:offeringId>
+   <brm:dealId>9151473371913161524</brm:dealId>
+   <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+   <brm:alias action="added" id="4016553060" type="PHONENUMBER"/>
+   <brm:QuoteNode>
+     <brm:LineOfBusiness type="Telephony"/>
+     <brm:offeringId>9138037478313476559</brm:offeringId>
+     <brm:dealId>9151473371913161524</brm:dealId>
+     <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+     <brm:Discount action="added" chargeType="Recurring" dealId="9151473371913161524"
+            discountCategory="Telephony"
+            effectiveDate="2018-07-26T02:53:57-0600"
+            id="9140718572513528959">
+      <brm:UsageBasedResources/>
+     </brm:Discount>
+     <brm:offeringName>Personal Phone</brm:offeringName>
+     <brm:status>Added</brm:status>
+     <brm:UsageDiscount/>
+     <brm:RatePlan priority="50">SHWDPPHP</brm:RatePlan>
+     <brm:UsageBasedResources/>
+     <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+     <brm:billingChargeType>Normal</brm:billingChargeType>
+     <brm:chargeType>Recurring</brm:chargeType>
+   </brm:QuoteNode>
+   <brm:offeringName>Personal Phone</brm:offeringName>
+   <brm:status>Added</brm:status>
+   <brm:UsageDiscount/>
+   <brm:RatePlan/>
+   <brm:UsageBasedResources/>
+   <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+   <brm:billingChargeType>Ignore</brm:billingChargeType>
+   <brm:chargeType>Recurring</brm:chargeType>
+  </brm:QuoteNode>
+  <brm:QuoteNode productInstanceId="9151549346613464079">
+   <brm:LineOfBusiness type="Internet"/>
+   <brm:offeringId>9145139488513389925</brm:offeringId>
+   <brm:dealId>9151466839213151296</brm:dealId>
+   <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+   <brm:QuoteNode>
+     <brm:LineOfBusiness type="Internet"/>
+     <brm:offeringId>9148579444813136555</brm:offeringId>
+     <brm:dealId>9151466839213151296</brm:dealId>
+     <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+     <brm:QuoteNode>
+      <brm:LineOfBusiness type="Internet"/>
+      <brm:offeringId>9148579444813136557</brm:offeringId>
+      <brm:dealId>9151466839213151296</brm:dealId>
+      <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+      <brm:offeringName>HHS Entitlement</brm:offeringName>
+      <brm:status>Added</brm:status>
+      <brm:UsageDiscount/>
+      <brm:RatePlan/>
+      <brm:UsageBasedResources/>
+      <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+      <brm:billingChargeType>Ignore</brm:billingChargeType>
+      <brm:chargeType>Recurring</brm:chargeType>
+     </brm:QuoteNode>
+     <brm:offeringName>HHS Entitlement</brm:offeringName>
+     <brm:status>Added</brm:status>
+     <brm:UsageDiscount/>
+     <brm:RatePlan/>
+     <brm:UsageBasedResources/>
+     <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+     <brm:billingChargeType>Ignore</brm:billingChargeType>
+     <brm:chargeType>Recurring</brm:chargeType>
+   </brm:QuoteNode>
+   <brm:QuoteNode>
+     <brm:LineOfBusiness type="Internet"/>
+     <brm:offeringId>9145140546113390439</brm:offeringId>
+     <brm:dealId>9151466839213151296</brm:dealId>
+     <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+     <brm:offeringName>Internet 150 Unlimited</brm:offeringName>
+     <brm:status>Added</brm:status>
+     <brm:UsageDiscount/>
+     <brm:RatePlan/>
+     <brm:UsageBasedResources/>
+     <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+     <brm:billingChargeType>Normal</brm:billingChargeType>
+     <brm:chargeType>Recurring</brm:chargeType>
+   </brm:QuoteNode>
+   <brm:QuoteNode>
+     <brm:LineOfBusiness type="Internet"/>
+     <brm:offeringId>9133834671313656106</brm:offeringId>
+     <brm:price>0.0</brm:price>
+     <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+     <brm:offeringName>Email</brm:offeringName>
+     <brm:status>Added</brm:status>
+     <brm:UsageDiscount/>
+     <brm:RatePlan/>
+     <brm:UsageBasedResources/>
+     <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+     <brm:billingChargeType>Normal</brm:billingChargeType>
+     <brm:chargeType>Recurring</brm:chargeType>
+   </brm:QuoteNode>
+   <brm:QuoteNode>
+     <brm:LineOfBusiness type="Internet"/>
+     <brm:offeringId>9133834671313656106</brm:offeringId>
+     <brm:price>0.0</brm:price>
+     <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+     <brm:offeringName>Email</brm:offeringName>
+     <brm:status>Added</brm:status>
+     <brm:UsageDiscount/>
+     <brm:RatePlan/>
+     <brm:UsageBasedResources/>
+     <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+     <brm:billingChargeType>Normal</brm:billingChargeType>
+     <brm:chargeType>Recurring</brm:chargeType>
+   </brm:QuoteNode>
+   <brm:QuoteNode>
+     <brm:LineOfBusiness type="Internet"/>
+     <brm:offeringId>9133834671313656106</brm:offeringId>
+     <brm:price>0.0</brm:price>
+     <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+     <brm:offeringName>Email</brm:offeringName>
+     <brm:status>Added</brm:status>
+     <brm:UsageDiscount/>
+     <brm:RatePlan/>
+     <brm:UsageBasedResources/>
+     <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+     <brm:billingChargeType>Normal</brm:billingChargeType>
+     <brm:chargeType>Recurring</brm:chargeType>
+   </brm:QuoteNode>
+   <brm:QuoteNode>
+     <brm:LineOfBusiness type="Internet"/>
+     <brm:offeringId>9133834671313656106</brm:offeringId>
+     <brm:price>0.0</brm:price>
+     <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+     <brm:offeringName>Email</brm:offeringName>
+     <brm:status>Added</brm:status>
+     <brm:UsageDiscount/>
+     <brm:RatePlan/>
+     <brm:UsageBasedResources/>
+     <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+     <brm:billingChargeType>Normal</brm:billingChargeType>
+     <brm:chargeType>Recurring</brm:chargeType>
+   </brm:QuoteNode>
+   <brm:QuoteNode>
+     <brm:LineOfBusiness type="Internet"/>
+     <brm:offeringId>9133834671313656106</brm:offeringId>
+     <brm:price>0.0</brm:price>
+     <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+     <brm:offeringName>Email</brm:offeringName>
+     <brm:status>Added</brm:status>
+     <brm:UsageDiscount/>
+     <brm:RatePlan/>
+     <brm:UsageBasedResources/>
+     <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+     <brm:billingChargeType>Normal</brm:billingChargeType>
+     <brm:chargeType>Recurring</brm:chargeType>
+   </brm:QuoteNode>
+   <brm:QuoteNode>
+     <brm:LineOfBusiness type="Internet"/>
+     <brm:offeringId>9133834671313656106</brm:offeringId>
+     <brm:price>0.0</brm:price>
+     <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+     <brm:offeringName>Email</brm:offeringName>
+     <brm:status>Added</brm:status>
+     <brm:UsageDiscount/>
+     <brm:RatePlan/>
+     <brm:UsageBasedResources/>
+     <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+     <brm:billingChargeType>Normal</brm:billingChargeType>
+     <brm:chargeType>Recurring</brm:chargeType>
+   </brm:QuoteNode>
+   <brm:QuoteNode>
+     <brm:LineOfBusiness type="Internet"/>
+     <brm:offeringId>9133834671313656106</brm:offeringId>
+     <brm:price>0.0</brm:price>
+     <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+     <brm:offeringName>Email</brm:offeringName>
+     <brm:status>Added</brm:status>
+     <brm:UsageDiscount/>
+     <brm:RatePlan/>
+     <brm:UsageBasedResources/>
+     <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+     <brm:billingChargeType>Normal</brm:billingChargeType>
+     <brm:chargeType>Recurring</brm:chargeType>
+   </brm:QuoteNode>
+   <brm:QuoteNode>
+     <brm:LineOfBusiness type="Internet"/>
+     <brm:offeringId>9133834671313656106</brm:offeringId>
+     <brm:price>0.0</brm:price>
+     <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+     <brm:offeringName>Email</brm:offeringName>
+     <brm:status>Added</brm:status>
+     <brm:UsageDiscount/>
+     <brm:RatePlan/>
+     <brm:UsageBasedResources/>
+     <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+     <brm:billingChargeType>Normal</brm:billingChargeType>
+     <brm:chargeType>Recurring</brm:chargeType>
+   </brm:QuoteNode>
+   <brm:QuoteNode>
+     <brm:LineOfBusiness type="Internet"/>
+     <brm:offeringId>9133834671313656106</brm:offeringId>
+     <brm:price>0.0</brm:price>
+     <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+     <brm:offeringName>Email</brm:offeringName>
+     <brm:status>Added</brm:status>
+     <brm:UsageDiscount/>
+     <brm:RatePlan/>
+     <brm:UsageBasedResources/>
+     <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+     <brm:billingChargeType>Normal</brm:billingChargeType>
+     <brm:chargeType>Recurring</brm:chargeType>
+   </brm:QuoteNode>
+   <brm:QuoteNode>
+     <brm:LineOfBusiness type="Internet"/>
+     <brm:offeringId>9133834671313656106</brm:offeringId>
+     <brm:price>0.0</brm:price>
+     <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+     <brm:offeringName>Email</brm:offeringName>
+     <brm:status>Added</brm:status>
+     <brm:UsageDiscount/>
+     <brm:RatePlan/>
+     <brm:UsageBasedResources/>
+     <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+     <brm:billingChargeType>Normal</brm:billingChargeType>
+     <brm:chargeType>Recurring</brm:chargeType>
+   </brm:QuoteNode>
+   <brm:QuoteNode>
+     <brm:LineOfBusiness type="Internet"/>
+     <brm:offeringId>9133834675513656109</brm:offeringId>
+     <brm:price>0.0</brm:price>
+     <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+     <brm:offeringName>IP Address</brm:offeringName>
+     <brm:status>Added</brm:status>
+     <brm:UsageDiscount/>
+     <brm:RatePlan/>
+     <brm:UsageBasedResources/>
+     <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+     <brm:billingChargeType>Normal</brm:billingChargeType>
+     <brm:chargeType>Recurring</brm:chargeType>
+   </brm:QuoteNode>
+   <brm:QuoteNode>
+     <brm:LineOfBusiness type="Internet"/>
+     <brm:offeringId>9136191474413365492</brm:offeringId>
+     <brm:dealId>9151466839213151296</brm:dealId>
+     <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+     <brm:offeringName>Outlets</brm:offeringName>
+     <brm:status>Added</brm:status>
+     <brm:UsageDiscount/>
+     <brm:RatePlan/>
+     <brm:UsageBasedResources/>
+     <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+     <brm:billingChargeType>Ignore</brm:billingChargeType>
+     <brm:chargeType>Recurring</brm:chargeType>
+   </brm:QuoteNode>
+   <brm:QuoteNode>
+     <brm:LineOfBusiness type="Internet"/>
+     <brm:offeringId>9131174626013213130</brm:offeringId>
+     <brm:dealId>9151466839213151296</brm:dealId>
+     <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+     <brm:QuoteNode>
+      <brm:LineOfBusiness type="Internet"/>
+      <brm:offeringId>9147984470013220653</brm:offeringId>
+      <brm:dealId>9151466839213151296</brm:dealId>
+      <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+      <brm:offeringName>Hardware</brm:offeringName>
+      <brm:status>Added</brm:status>
+      <brm:UsageDiscount/>
+      <brm:RatePlan/>
+      <brm:UsageBasedResources/>
+      <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+      <brm:billingChargeType>Ignore</brm:billingChargeType>
+      <brm:chargeType>Recurring</brm:chargeType>
+     </brm:QuoteNode>
+     <brm:offeringName>Hardware</brm:offeringName>
+     <brm:status>Added</brm:status>
+     <brm:UsageDiscount/>
+     <brm:RatePlan/>
+     <brm:UsageBasedResources/>
+     <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+     <brm:billingChargeType>Ignore</brm:billingChargeType>
+     <brm:chargeType>Recurring</brm:chargeType>
+   </brm:QuoteNode>
+   <brm:QuoteNode>
+     <brm:LineOfBusiness type="Internet"/>
+     <brm:offeringId>9150472693413764542</brm:offeringId>
+     <brm:dealId>9151466839213151296</brm:dealId>
+     <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+     <brm:offeringName>ValuePlan</brm:offeringName>
+     <brm:status>Added</brm:status>
+     <brm:UsageDiscount/>
+     <brm:RatePlan/>
+     <brm:UsageBasedResources/>
+     <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+     <brm:billingChargeType>Ignore</brm:billingChargeType>
+     <brm:chargeType>Recurring</brm:chargeType>
+   </brm:QuoteNode>
+   <brm:offeringName>Internet 150 Unlimited</brm:offeringName>
+   <brm:status>Added</brm:status>
+   <brm:UsageDiscount/>
+   <brm:RatePlan/>
+   <brm:UsageBasedResources/>
+   <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+   <brm:billingChargeType>Ignore</brm:billingChargeType>
+   <brm:chargeType>Recurring</brm:chargeType>
+  </brm:QuoteNode>
+  <brm:QuoteNode productInstanceId="9151549346613464087">
+   <brm:LineOfBusiness type="Television"/>
+   <brm:offeringId>9145211120513396723</brm:offeringId>
+   <brm:dealId>9151473371913161530</brm:dealId>
+   <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+   <brm:QuoteNode>
+     <brm:LineOfBusiness type="Television"/>
+     <brm:offeringId>9147112377113872419</brm:offeringId>
+     <brm:dealId>9151473371913161530</brm:dealId>
+     <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+     <brm:offeringName>Moxi Device Features</brm:offeringName>
+     <brm:status>Added</brm:status>
+     <brm:UsageDiscount/>
+     <brm:RatePlan/>
+     <brm:UsageBasedResources/>
+     <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+     <brm:billingChargeType>Ignore</brm:billingChargeType>
+     <brm:chargeType>Recurring</brm:chargeType>
+   </brm:QuoteNode>
+   <brm:QuoteNode>
+     <brm:LineOfBusiness type="Television"/>
+     <brm:offeringId>9145055135013515059</brm:offeringId>
+     <brm:dealId>9151473371913161530</brm:dealId>
+     <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+     <brm:offeringName>Limited TV</brm:offeringName>
+     <brm:status>Added</brm:status>
+     <brm:UsageDiscount/>
+     <brm:RatePlan/>
+     <brm:UsageBasedResources/>
+     <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+     <brm:billingChargeType>Normal</brm:billingChargeType>
+     <brm:chargeType>Recurring</brm:chargeType>
+   </brm:QuoteNode>
+   <brm:QuoteNode>
+     <brm:LineOfBusiness type="Television"/>
+     <brm:offeringId>9145235840013418678</brm:offeringId>
+     <brm:dealId>9151473371913161530</brm:dealId>
+     <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+     <brm:QuoteNode>
+      <brm:LineOfBusiness type="Television"/>
+      <brm:offeringId>9150274225213624507</brm:offeringId>
+      <brm:dealId>9151467987213157497</brm:dealId>
+      <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+      <brm:offeringName>VOD/APP</brm:offeringName>
+      <brm:status>Added</brm:status>
+      <brm:UsageDiscount/>
+      <brm:RatePlan/>
+      <brm:UsageBasedResources/>
+      <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+      <brm:billingChargeType>Ignore</brm:billingChargeType>
+      <brm:chargeType>Recurring</brm:chargeType>
+     </brm:QuoteNode>
+     <brm:offeringName>On Demand Features</brm:offeringName>
+     <brm:status>Added</brm:status>
+     <brm:UsageDiscount/>
+     <brm:RatePlan/>
+     <brm:UsageBasedResources/>
+     <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+     <brm:billingChargeType>Ignore</brm:billingChargeType>
+     <brm:chargeType>Recurring</brm:chargeType>
+   </brm:QuoteNode>
+   <brm:QuoteNode>
+     <brm:LineOfBusiness type="Television"/>
+     <brm:offeringId>9134135327113948002</brm:offeringId>
+     <brm:dealId>9151473371913161530</brm:dealId>
+     <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+     <brm:offeringName>Outlets</brm:offeringName>
+     <brm:status>Added</brm:status>
+     <brm:UsageDiscount/>
+     <brm:RatePlan/>
+     <brm:UsageBasedResources/>
+     <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+     <brm:billingChargeType>Ignore</brm:billingChargeType>
+     <brm:chargeType>Recurring</brm:chargeType>
+   </brm:QuoteNode>
+   <brm:QuoteNode>
+     <brm:LineOfBusiness type="Television"/>
+     <brm:offeringId>9133797015413652321</brm:offeringId>
+     <brm:dealId>9151473371913161530</brm:dealId>
+     <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+     <brm:QuoteNode>
+      <brm:LineOfBusiness type="Television"/>
+      <brm:offeringId>9150133830213539193</brm:offeringId>
+      <brm:dealId>9151467987213157498</brm:dealId>
+      <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+      <brm:offeringName>Russia Today</brm:offeringName>
+      <brm:status>Added</brm:status>
+      <brm:UsageDiscount/>
+      <brm:RatePlan/>
+      <brm:UsageBasedResources/>
+      <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+      <brm:billingChargeType>Normal</brm:billingChargeType>
+      <brm:chargeType>Recurring</brm:chargeType>
+     </brm:QuoteNode>
+     <brm:offeringName>Pick and Pay</brm:offeringName>
+     <brm:status>Added</brm:status>
+     <brm:UsageDiscount/>
+     <brm:RatePlan/>
+     <brm:UsageBasedResources/>
+     <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+     <brm:billingChargeType>Ignore</brm:billingChargeType>
+     <brm:chargeType>Recurring</brm:chargeType>
+   </brm:QuoteNode>
+   <brm:QuoteNode>
+     <brm:LineOfBusiness type="Television"/>
+     <brm:offeringId>9133798672913652452</brm:offeringId>
+     <brm:dealId>9151473371913161530</brm:dealId>
+     <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+     <brm:offeringName>SPP Packages</brm:offeringName>
+     <brm:status>Added</brm:status>
+     <brm:UsageDiscount/>
+     <brm:RatePlan/>
+     <brm:UsageBasedResources/>
+     <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+     <brm:billingChargeType>Ignore</brm:billingChargeType>
+     <brm:chargeType>Recurring</brm:chargeType>
+   </brm:QuoteNode>
+   <brm:QuoteNode>
+     <brm:LineOfBusiness type="Television"/>
+     <brm:offeringId>9137226099913056379</brm:offeringId>
+     <brm:dealId>9151473371913161530</brm:dealId>
+     <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+     <brm:offeringName>Seasonal Packages</brm:offeringName>
+     <brm:status>Added</brm:status>
+     <brm:UsageDiscount/>
+     <brm:RatePlan/>
+     <brm:UsageBasedResources/>
+     <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+     <brm:billingChargeType>Ignore</brm:billingChargeType>
+     <brm:chargeType>Recurring</brm:chargeType>
+   </brm:QuoteNode>
+   <brm:QuoteNode>
+     <brm:LineOfBusiness type="Television"/>
+     <brm:offeringId>9144994820013464685</brm:offeringId>
+     <brm:dealId>9151473371913161530</brm:dealId>
+     <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+     <brm:QuoteNode>
+      <brm:LineOfBusiness type="Television"/>
+      <brm:offeringId>9145011170013478962</brm:offeringId>
+      <brm:dealId>9151473371913161530</brm:dealId>
+      <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+      <brm:offeringName>News</brm:offeringName>
+      <brm:status>Added</brm:status>
+      <brm:UsageDiscount/>
+      <brm:RatePlan/>
+      <brm:UsageBasedResources/>
+      <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+      <brm:billingChargeType>Ignore</brm:billingChargeType>
+      <brm:chargeType>Recurring</brm:chargeType>
+     </brm:QuoteNode>
+     <brm:QuoteNode>
+      <brm:LineOfBusiness type="Television"/>
+      <brm:offeringId>9145011170013479011</brm:offeringId>
+      <brm:dealId>9151473371913161530</brm:dealId>
+      <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+      <brm:offeringName>Entertainment 1</brm:offeringName>
+      <brm:status>Added</brm:status>
+      <brm:UsageDiscount/>
+      <brm:RatePlan/>
+      <brm:UsageBasedResources/>
+      <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+      <brm:billingChargeType>Ignore</brm:billingChargeType>
+      <brm:chargeType>Recurring</brm:chargeType>
+     </brm:QuoteNode>
+     <brm:QuoteNode>
+      <brm:LineOfBusiness type="Television"/>
+      <brm:offeringId>9145011340213479017</brm:offeringId>
+      <brm:dealId>9151473371913161530</brm:dealId>
+      <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+      <brm:offeringName>Entertainment 2</brm:offeringName>
+      <brm:status>Added</brm:status>
+      <brm:UsageDiscount/>
+      <brm:RatePlan/>
+      <brm:UsageBasedResources/>
+      <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+      <brm:billingChargeType>Ignore</brm:billingChargeType>
+      <brm:chargeType>Recurring</brm:chargeType>
+     </brm:QuoteNode>
+     <brm:QuoteNode>
+      <brm:LineOfBusiness type="Television"/>
+      <brm:offeringId>9145011340213479047</brm:offeringId>
+      <brm:dealId>9151473371913161530</brm:dealId>
+      <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+      <brm:offeringName>Entertainment 3</brm:offeringName>
+      <brm:status>Added</brm:status>
+      <brm:UsageDiscount/>
+      <brm:RatePlan/>
+      <brm:UsageBasedResources/>
+      <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+      <brm:billingChargeType>Ignore</brm:billingChargeType>
+      <brm:chargeType>Recurring</brm:chargeType>
+     </brm:QuoteNode>
+     <brm:QuoteNode>
+      <brm:LineOfBusiness type="Television"/>
+      <brm:offeringId>9145011340213479054</brm:offeringId>
+      <brm:dealId>9151473371913161530</brm:dealId>
+      <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+      <brm:offeringName>Movies</brm:offeringName>
+      <brm:status>Added</brm:status>
+      <brm:UsageDiscount/>
+      <brm:RatePlan/>
+      <brm:UsageBasedResources/>
+      <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+      <brm:billingChargeType>Ignore</brm:billingChargeType>
+      <brm:chargeType>Recurring</brm:chargeType>
+     </brm:QuoteNode>
+     <brm:QuoteNode>
+      <brm:LineOfBusiness type="Television"/>
+      <brm:offeringId>9145011340213479067</brm:offeringId>
+      <brm:dealId>9151473371913161530</brm:dealId>
+      <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+      <brm:offeringName>Sports 2</brm:offeringName>
+      <brm:status>Added</brm:status>
+      <brm:UsageDiscount/>
+      <brm:RatePlan/>
+      <brm:UsageBasedResources/>
+      <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+      <brm:billingChargeType>Ignore</brm:billingChargeType>
+      <brm:chargeType>Recurring</brm:chargeType>
+     </brm:QuoteNode>
+     <brm:QuoteNode>
+      <brm:LineOfBusiness type="Television"/>
+      <brm:offeringId>9145011340213479073</brm:offeringId>
+      <brm:dealId>9151473371913161530</brm:dealId>
+      <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+      <brm:offeringName>Family</brm:offeringName>
+      <brm:status>Added</brm:status>
+      <brm:UsageDiscount/>
+      <brm:RatePlan/>
+      <brm:UsageBasedResources/>
+      <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+      <brm:billingChargeType>Ignore</brm:billingChargeType>
+      <brm:chargeType>Recurring</brm:chargeType>
+     </brm:QuoteNode>
+     <brm:QuoteNode>
+      <brm:LineOfBusiness type="Television"/>
+      <brm:offeringId>9145011340213479086</brm:offeringId>
+      <brm:dealId>9151473371913161530</brm:dealId>
+      <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+      <brm:offeringName>French</brm:offeringName>
+      <brm:status>Added</brm:status>
+      <brm:UsageDiscount/>
+      <brm:RatePlan/>
+      <brm:UsageBasedResources/>
+      <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+      <brm:billingChargeType>Ignore</brm:billingChargeType>
+      <brm:chargeType>Recurring</brm:chargeType>
+     </brm:QuoteNode>
+     <brm:offeringName>Small, Medium and Large Theme Packs</brm:offeringName>
+     <brm:status>Added</brm:status>
+     <brm:UsageDiscount/>
+     <brm:RatePlan/>
+     <brm:UsageBasedResources/>
+     <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+     <brm:billingChargeType>Ignore</brm:billingChargeType>
+     <brm:chargeType>Recurring</brm:chargeType>
+   </brm:QuoteNode>
+   <brm:QuoteNode>
+     <brm:LineOfBusiness type="Television"/>
+     <brm:offeringId>9131254459313896134</brm:offeringId>
+     <brm:dealId>9151473371913161530</brm:dealId>
+     <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+     <brm:QuoteNode>
+      <brm:LineOfBusiness type="Television"/>
+      <brm:offeringId>9143914460113001616</brm:offeringId>
+      <brm:dealId>9151474800613168259</brm:dealId>
+      <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+      <brm:QuoteNode>
+        <brm:LineOfBusiness type="Television"/>
+        <brm:offeringId>9143914460113001633</brm:offeringId>
+        <brm:dealId>9151474800613168260</brm:dealId>
+        <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+        <brm:QuoteNode>
+         <brm:LineOfBusiness type="Television"/>
+         <brm:offeringId>9143914640013001733</brm:offeringId>
+         <brm:dealId>9151474800613168261</brm:dealId>
+         <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+         <brm:alias action="added" id="4xgateway00411" type="SERIALNUMBER"/>
+         <brm:offeringName>Shaw BlueSky TV box Rental</brm:offeringName>
+         <brm:status>Added</brm:status>
+         <brm:UsageDiscount/>
+         <brm:RatePlan/>
+         <brm:UsageBasedResources/>
+         <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+         <brm:billingChargeType>Normal</brm:billingChargeType>
+         <brm:chargeType>Recurring</brm:chargeType>
+        </brm:QuoteNode>
+        <brm:offeringName>Shaw BlueSky TV box (526)</brm:offeringName>
+        <brm:status>Added</brm:status>
+        <brm:UsageDiscount/>
+        <brm:RatePlan/>
+        <brm:UsageBasedResources/>
+        <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+        <brm:billingChargeType>Ignore</brm:billingChargeType>
+        <brm:chargeType>Recurring</brm:chargeType>
+      </brm:QuoteNode>
+      <brm:QuoteNode>
+        <brm:LineOfBusiness type="Television"/>
+        <brm:offeringId>9143914460113001680</brm:offeringId>
+        <brm:dealId>9151474800613168262</brm:dealId>
+        <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+        <brm:QuoteNode>
+         <brm:LineOfBusiness type="Television"/>
+         <brm:offeringId>9143914640013001769</brm:offeringId>
+         <brm:dealId>9151474800613168263</brm:dealId>
+         <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+         <brm:alias action="added" id="5xportal00411" type="SERIALNUMBER"/>
+         <brm:offeringName>Shaw BlueSky TV portal Rental</brm:offeringName>
+         <brm:status>Added</brm:status>
+         <brm:UsageDiscount/>
+         <brm:RatePlan/>
+         <brm:UsageBasedResources/>
+         <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+         <brm:billingChargeType>Normal</brm:billingChargeType>
+         <brm:chargeType>Recurring</brm:chargeType>
+        </brm:QuoteNode>
+        <brm:offeringName>Shaw BlueSky TV portal (416)</brm:offeringName>
+        <brm:status>Added</brm:status>
+        <brm:UsageDiscount/>
+        <brm:RatePlan/>
+        <brm:UsageBasedResources/>
+        <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+        <brm:billingChargeType>Ignore</brm:billingChargeType>
+        <brm:chargeType>Recurring</brm:chargeType>
+      </brm:QuoteNode>
+      <brm:offeringName>Shaw BlueSky TV Devices</brm:offeringName>
+      <brm:status>Added</brm:status>
+      <brm:UsageDiscount/>
+      <brm:RatePlan/>
+      <brm:UsageBasedResources/>
+      <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+      <brm:billingChargeType>Ignore</brm:billingChargeType>
+      <brm:chargeType>Recurring</brm:chargeType>
+     </brm:QuoteNode>
+     <brm:offeringName>Hardware</brm:offeringName>
+     <brm:status>Added</brm:status>
+     <brm:UsageDiscount/>
+     <brm:RatePlan/>
+     <brm:UsageBasedResources/>
+     <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+     <brm:billingChargeType>Ignore</brm:billingChargeType>
+     <brm:chargeType>Recurring</brm:chargeType>
+   </brm:QuoteNode>
+   <brm:QuoteNode>
+     <brm:LineOfBusiness type="Television"/>
+     <brm:offeringId>9138597110013979028</brm:offeringId>
+     <brm:dealId>9151473371913161530</brm:dealId>
+     <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+     <brm:offeringName>SMG Features</brm:offeringName>
+     <brm:status>Added</brm:status>
+     <brm:UsageDiscount/>
+     <brm:RatePlan/>
+     <brm:UsageBasedResources/>
+     <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+     <brm:billingChargeType>Ignore</brm:billingChargeType>
+     <brm:chargeType>Recurring</brm:chargeType>
+   </brm:QuoteNode>
+   <brm:QuoteNode>
+     <brm:LineOfBusiness type="Television"/>
+     <brm:offeringId>9143913368013001052</brm:offeringId>
+     <brm:dealId>9151473371913161530</brm:dealId>
+     <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+     <brm:QuoteNode>
+      <brm:LineOfBusiness type="Television"/>
+      <brm:offeringId>9143913368013001099</brm:offeringId>
+      <brm:dealId>9151474800613168265</brm:dealId>
+      <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+      <brm:offeringName>TVOD</brm:offeringName>
+      <brm:status>Added</brm:status>
+      <brm:UsageDiscount/>
+      <brm:RatePlan/>
+      <brm:UsageBasedResources/>
+      <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+      <brm:billingChargeType>Ignore</brm:billingChargeType>
+      <brm:chargeType>Recurring</brm:chargeType>
+     </brm:QuoteNode>
+     <brm:QuoteNode>
+      <brm:LineOfBusiness type="Television"/>
+      <brm:offeringId>9143913368013001071</brm:offeringId>
+      <brm:dealId>9151474800613168264</brm:dealId>
+      <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+      <brm:offeringName>TVE</brm:offeringName>
+      <brm:status>Added</brm:status>
+      <brm:UsageDiscount/>
+      <brm:RatePlan/>
+      <brm:UsageBasedResources/>
+      <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+      <brm:billingChargeType>Ignore</brm:billingChargeType>
+      <brm:chargeType>Recurring</brm:chargeType>
+     </brm:QuoteNode>
+     <brm:QuoteNode>
+      <brm:LineOfBusiness type="Television"/>
+      <brm:offeringId>9143913530113001137</brm:offeringId>
+      <brm:dealId>9151474800613168266</brm:dealId>
+      <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+      <brm:offeringName>MDVR</brm:offeringName>
+      <brm:status>Added</brm:status>
+      <brm:UsageDiscount/>
+      <brm:RatePlan/>
+      <brm:UsageBasedResources/>
+      <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+      <brm:billingChargeType>Ignore</brm:billingChargeType>
+      <brm:chargeType>Recurring</brm:chargeType>
+     </brm:QuoteNode>
+     <brm:offeringName>Shaw BlueSky TV Device Feature</brm:offeringName>
+     <brm:status>Added</brm:status>
+     <brm:UsageDiscount/>
+     <brm:RatePlan/>
+     <brm:UsageBasedResources/>
+     <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+     <brm:billingChargeType>Ignore</brm:billingChargeType>
+     <brm:chargeType>Recurring</brm:chargeType>
+   </brm:QuoteNode>
+   <brm:QuoteNode>
+     <brm:LineOfBusiness type="Television"/>
+     <brm:offeringId>9147673847013849303</brm:offeringId>
+     <brm:dealId>9151473371913161530</brm:dealId>
+     <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+     <brm:offeringName>HD MPEG4 Features</brm:offeringName>
+     <brm:status>Added</brm:status>
+     <brm:UsageDiscount/>
+     <brm:RatePlan/>
+     <brm:UsageBasedResources/>
+     <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+     <brm:billingChargeType>Ignore</brm:billingChargeType>
+     <brm:chargeType>Recurring</brm:chargeType>
+   </brm:QuoteNode>
+   <brm:offeringName>Limited TV</brm:offeringName>
+   <brm:status>Added</brm:status>
+   <brm:UsageDiscount/>
+   <brm:RatePlan/>
+   <brm:UsageBasedResources/>
+   <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+   <brm:billingChargeType>Ignore</brm:billingChargeType>
+   <brm:chargeType>Recurring</brm:chargeType>
+  </brm:QuoteNode>
+  <brm:QuoteNode>
+   <brm:LineOfBusiness type="Converged_Hardware"/>
+   <brm:offeringId>9147984470013220650</brm:offeringId>
+   <brm:dealId>9151471944313159731</brm:dealId>
+   <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+   <brm:QuoteNode>
+     <brm:LineOfBusiness type="Converged_Hardware"/>
+     <brm:offeringId>9147984470013220653</brm:offeringId>
+     <brm:dealId>9151471944313159731</brm:dealId>
+     <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+     <brm:QuoteNode>
+      <brm:LineOfBusiness type="Converged_Hardware"/>
+      <brm:offeringId>9147984470013220655</brm:offeringId>
+      <brm:dealId>9151471944313159732</brm:dealId>
+      <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+      <brm:QuoteNode>
+        <brm:LineOfBusiness type="Converged_Hardware"/>
+        <brm:offeringId>9147984470013220657</brm:offeringId>
+        <brm:dealId>9151524388213252791</brm:dealId>
+        <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+        <brm:alias action="added" id="xb6converged00456" type="SERIALNUMBER"/>
+        <brm:QuoteNode refToProductInstance="9151549346613464074">
+         <brm:LineOfBusiness type="Converged_Hardware"/>
+         <brm:offeringId>9147984470013220667</brm:offeringId>
+         <brm:dealId>9151524388213252791</brm:dealId>
+         <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+         <brm:offeringName>Do Not Use Phone Service (Trial Only)</brm:offeringName>
+         <brm:status>Added</brm:status>
+         <brm:UsageDiscount/>
+         <brm:RatePlan/>
+         <brm:UsageBasedResources/>
+         <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+         <brm:billingChargeType>Normal</brm:billingChargeType>
+         <brm:chargeType>Recurring</brm:chargeType>
+        </brm:QuoteNode>
+        <brm:QuoteNode refToProductInstance="9151549346613464079">
+         <brm:LineOfBusiness type="Converged_Hardware"/>
+         <brm:offeringId>9147984470013220661</brm:offeringId>
+         <brm:dealId>9151524388213252791</brm:dealId>
+         <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+         <brm:offeringName>Internet Service</brm:offeringName>
+         <brm:status>Added</brm:status>
+         <brm:UsageDiscount/>
+         <brm:RatePlan/>
+         <brm:UsageBasedResources/>
+         <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+         <brm:billingChargeType>Normal</brm:billingChargeType>
+         <brm:chargeType>Recurring</brm:chargeType>
+        </brm:QuoteNode>
+        <brm:offeringName>Rental XB6 DOCSIS 3.1 WiFi Modem</brm:offeringName>
+        <brm:status>Added</brm:status>
+        <brm:UsageDiscount/>
+        <brm:RatePlan/>
+        <brm:UsageBasedResources/>
+        <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+        <brm:billingChargeType>Normal</brm:billingChargeType>
+        <brm:chargeType>Recurring</brm:chargeType>
+      </brm:QuoteNode>
+      <brm:offeringName>XB6 DOCSIS 3.1 WiFi Modem</brm:offeringName>
+      <brm:status>Added</brm:status>
+      <brm:UsageDiscount/>
+      <brm:RatePlan/>
+      <brm:UsageBasedResources/>
+      <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+      <brm:billingChargeType>Ignore</brm:billingChargeType>
+      <brm:chargeType>Recurring</brm:chargeType>
+     </brm:QuoteNode>
+     <brm:offeringName>Hardware</brm:offeringName>
+     <brm:status>Added</brm:status>
+     <brm:UsageDiscount/>
+     <brm:RatePlan/>
+     <brm:UsageBasedResources/>
+     <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+     <brm:billingChargeType>Ignore</brm:billingChargeType>
+     <brm:chargeType>Recurring</brm:chargeType>
+   </brm:QuoteNode>
+   <brm:offeringName>Hardware</brm:offeringName>
+   <brm:status>Added</brm:status>
+   <brm:UsageDiscount/>
+   <brm:RatePlan/>
+   <brm:UsageBasedResources/>
+   <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+   <brm:billingChargeType>Ignore</brm:billingChargeType>
+   <brm:chargeType>Recurring</brm:chargeType>
+  </brm:QuoteNode>
+  <brm:QuoteNode>
+   <brm:LineOfBusiness type="Installation Fee"/>
+   <brm:offeringId>9129226832513325249</brm:offeringId>
+   <brm:price>1.0</brm:price>
+   <brm:dealId>9151473371913161533</brm:dealId>
+   <brm:startDate>2018-07-26T02:53:57-0600</brm:startDate>
+   <brm:offeringName>Triple Play Install Fee</brm:offeringName>
+   <brm:status>Added</brm:status>
+   <brm:UsageDiscount/>
+   <brm:RatePlan/>
+   <brm:UsageBasedResources/>
+   <brm:amortizationDefinition>Generic</brm:amortizationDefinition>
+   <brm:billingChargeType>Account</brm:billingChargeType>
+   <brm:chargeType>OneTime</brm:chargeType>
+  </brm:QuoteNode>
+  <brm:Deals>
+   <brm:Deal dealId="9151474800613168264" invoiceDescription="TVE"/>
+   <brm:Deal dealId="9151474800613168265" invoiceDescription="TVOD"/>
+   <brm:Deal dealId="9151524388213252791" invoiceDescription="Advanced WiFi Modem Rental"/>
+   <brm:Deal dealId="9151474800613168266" invoiceDescription="MDVR"/>
+   <brm:Deal dealId="9151473371913161524"
+        invoiceDescription="Personal Phone [DIGITAL PHONE]"/>
+   <brm:Deal dealId="9151473371913161530" invoiceDescription="Limited TV"/>
+   <brm:Deal dealId="9151471944313159731" invoiceDescription="Hardware"/>
+   <brm:Deal dealId="9151467987213157498" invoiceDescription="Russia Today"/>
+   <brm:Deal dealId="9151471944313159732" invoiceDescription="XB6 DOCSIS 3.1 WiFi Modem"/>
+   <brm:Deal dealId="9151467987213157497" invoiceDescription="VOD/APP"/>
+   <brm:Deal dealId="9151473371913161533" invoiceDescription="Triple Play Installation Fee"/>
+   <brm:Deal dealId="9151466839213151296" invoiceDescription="Internet 150 Unlimited"/>
+   <brm:Deal dealId="9151474800613168259" invoiceDescription="Shaw BlueSky TV Devices"/>
+   <brm:Deal dealId="9151474800613168261"
+        invoiceDescription="Shaw BlueSky TV box Rental [SERIAL NUMBER]"/>
+   <brm:Deal dealId="9151474800613168260" invoiceDescription="Shaw BlueSky TV box (526)"/>
+   <brm:Deal dealId="9151474800613168263"
+        invoiceDescription="Shaw BlueSky TV portal Rental [SERIAL NUMBER]"/>
+   <brm:Deal dealId="9151474800613168262" invoiceDescription="Shaw BlueSky TV portal (416)"/>
+  </brm:Deals>
+  <brm:Plans/>
+  <brm:PreviousQuote/>
+</brm:CustomerOrder>

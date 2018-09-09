@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+  
+<suite name="Golden Suite" verbose="1">
+<listeners>
+        <listener class-name="com.netcracker.shaw.report.TestListener"/>
+</listeners>
+<test name="Triple_Play_Hardware_Swap" >
+  <classes>
+     <class name="com.netcracker.shaw.GoldenSuite">
+   <methods>
+   </methods>
+     </class>
+  </classes>
+  </test>
+  
+</suite>
